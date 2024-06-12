@@ -1,0 +1,11 @@
+server:
+  port: 8080
+  servlet.context-path: /api
+
+nbp:
+  api:
+    base:
+      uri: http://api.nbp.pl/api/
+    exchange:
+      uri:
+        usd: exchangerates/rates/a/usd
