@@ -21,7 +21,7 @@ Body
 }
 ```
 
-Please keep in mind that PESEL neets to be correct.
+Please keep in mind that PESEL needs to be correct.
 I recomend using pesel generator like [this](https://pesel.cstudios.pl/o-generatorze/generator-on-line)
 ## Exchange currency
 POST
